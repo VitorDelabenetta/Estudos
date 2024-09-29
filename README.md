@@ -2,7 +2,9 @@
 ![](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) <!-- .NET -->
 ![](https://img.shields.io/badge/c%23-%2300599C.svg?style=for-the-badge&logo=csharp&logoColor=white) <!-- C# -->
 ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) <!-- VSCode -->
+![](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white) <!-- Ubuntu -->
 ![](https://img.shields.io/badge/Markdown-232323?style=for-the-badge&logo=markdown&logoColor=white) <!-- README -->
+![](https://img.shields.io/badge/W3Schools-04AA6D?style=for-the-badge&logo=W3Schools&logoColor=white) <!-- W3 Schools -->
 
 <br>
 
@@ -42,6 +44,6 @@ git clone https://github.com/VitorDelabenetta/Estudos.git
 Esse projeto foi desenvolvido com as seguintes ferramentas e tecnologias:
 
 - C#;
-- DOT NET;
+- .NET;
 - Virtual Studio Code;
 - Git.
