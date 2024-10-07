@@ -1,0 +1,15 @@
+/home/gabriel-delabenetta/Downloads/Projects/Estudos/Text Game/bin/Debug/net8.0/Text Game
+/home/gabriel-delabenetta/Downloads/Projects/Estudos/Text Game/bin/Debug/net8.0/Text Game.deps.json
+/home/gabriel-delabenetta/Downloads/Projects/Estudos/Text Game/bin/Debug/net8.0/Text Game.runtimeconfig.json
+/home/gabriel-delabenetta/Downloads/Projects/Estudos/Text Game/bin/Debug/net8.0/Text Game.dll
+/home/gabriel-delabenetta/Downloads/Projects/Estudos/Text Game/bin/Debug/net8.0/Text Game.pdb
+/home/gabriel-delabenetta/Downloads/Projects/Estudos/Text Game/obj/Debug/net8.0/Text Game.GeneratedMSBuildEditorConfig.editorconfig
+/home/gabriel-delabenetta/Downloads/Projects/Estudos/Text Game/obj/Debug/net8.0/Text Game.AssemblyInfoInputs.cache
+/home/gabriel-delabenetta/Downloads/Projects/Estudos/Text Game/obj/Debug/net8.0/Text Game.AssemblyInfo.cs
+/home/gabriel-delabenetta/Downloads/Projects/Estudos/Text Game/obj/Debug/net8.0/Text Game.csproj.CoreCompileInputs.cache
+/home/gabriel-delabenetta/Downloads/Projects/Estudos/Text Game/obj/Debug/net8.0/Text Game.sourcelink.json
+/home/gabriel-delabenetta/Downloads/Projects/Estudos/Text Game/obj/Debug/net8.0/Text Game.dll
+/home/gabriel-delabenetta/Downloads/Projects/Estudos/Text Game/obj/Debug/net8.0/refint/Text Game.dll
+/home/gabriel-delabenetta/Downloads/Projects/Estudos/Text Game/obj/Debug/net8.0/Text Game.pdb
+/home/gabriel-delabenetta/Downloads/Projects/Estudos/Text Game/obj/Debug/net8.0/Text Game.genruntimeconfig.cache
+/home/gabriel-delabenetta/Downloads/Projects/Estudos/Text Game/obj/Debug/net8.0/ref/Text Game.dll
